@@ -1,0 +1,20 @@
+.directoryOptions {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.directoryTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.directoryContainer {
+  border-radius: 10px;
+  border: 1px solid gray;
+  margin-top: 20%;
+}
+
+.font {
+  font-size: x-large;
+}
